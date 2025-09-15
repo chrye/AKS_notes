@@ -12,13 +12,14 @@ Here’s a consolidated table combining **AKS features, add-ons, extensions, inb
 |  | NAT Gateway | N/A | Yes | Yes |
 |  | UDR (User Defined Routes) | N/A | Yes | Yes |
 |  | Azure Firewall | N/A | Yes | Yes |
+|  | Azure CNI Overlay - Linux​ | N/A | N/A | Yes |
+|  | Azure CNI Overlay - Windows | N/A | N/A | Not Yet |
+|  | Azure CNI Overlay - Cilium​ | N/A | N/A | Yes |
+|  | Azure CNI – Pod Subnet | N/A | N/A | Preview |
 | **Ingress / Egress** | Application Gateway Ingress Controller | Yes | N/A | Yes |
 |  | NGINX Ingress Controller | Yes | N/A | Yes |
 | **Add-ons** | KEDA (Event-driven Autoscaling) | N/A | N/A | Yes |
 |  | Azure Monitor / Container Insights | N/A | N/A | Yes |
-|  | Azure CNI Overlay - Linux​ | N/A | N/A | Yes |
-|  | Azure CNI Overlay - Windows | N/A | N/A | Not Yet |
-|  | Azure CNI – Pod Subnet | N/A | N/A | Preview |
 |  | Azure Policy | N/A | N/A | Yes |
 |  | Azure Key Vault Secrets Provider | N/A | N/A | Yes |
 |  | Virtual Nodes | N/A | N/A | Yes |
