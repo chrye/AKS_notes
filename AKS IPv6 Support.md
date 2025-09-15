@@ -16,6 +16,9 @@ Here’s a consolidated table combining **AKS features, add-ons, extensions, inb
 |  | NGINX Ingress Controller | Yes | N/A | Yes |
 | **Add-ons** | KEDA (Event-driven Autoscaling) | N/A | N/A | Yes |
 |  | Azure Monitor / Container Insights | N/A | N/A | Yes |
+|  | Azure CNI Overlay - Linux​ | N/A | N/A | Yes |
+|  | Azure CNI Overlay - Windows | N/A | N/A | Not Yet |
+|  | Azure CNI – Pod Subnet | N/A | N/A | Preview |
 |  | Azure Policy | N/A | N/A | Yes |
 |  | Azure Key Vault Secrets Provider | N/A | N/A | Yes |
 |  | Virtual Nodes | N/A | N/A | Yes |
